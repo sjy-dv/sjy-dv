@@ -1,4 +1,4 @@
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sjy-dv&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <p align="center">🇰🇷 🇦🇺 🇸🇬</p>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
@@ -33,5 +33,5 @@
     <a href="mailto:kn2414e@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kn2414e@gmail.com"/></a>
 </p>
 <br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sjy-dv&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
