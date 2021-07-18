@@ -5,7 +5,7 @@
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
-<p align="center"> Skills that can be used in practice </p>
+<p align="center"> Available Stacks </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
