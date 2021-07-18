@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sjy_dv&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sjy-dv&show_icons=true&theme=radical)
 
 <p align="center">🇰🇷 🇦🇺 🇸🇬</p>
 
