@@ -4,7 +4,7 @@
 [![YebinKim's github stats](https://github-readme-stats.vercel.app/api?username=sjy-dv&count_private=true&custom_title=Dev_Tozzi's&nbsp;github&nbsp;👀&bg_color=30,f4eb9c,571c0c&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sjy-dv&layout=compact&custom_title=My&nbsp;Language&nbsp;⌨️&bg_color=30,f4eb9c,571c0c&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3 align="center">🛠 Tech Stack 🛠</h3>
+<h3 align="center">⚙ Tech Stack ⚙</h3>
 
 <p align="center"> Available Stacks </p>
 
