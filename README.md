@@ -1,5 +1,6 @@
+<p align="center">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sjy-dv&show_icons=true&theme=radical)
-
+</p>
 <p align="center">🇰🇷 🇦🇺 🇸🇬</p>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
