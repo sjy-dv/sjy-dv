@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/HyperledgerFabric-DB3552?style=flat-square&logo=Hulu&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Etherium&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Bitcoin&logoColor=white"/></a>&nbsp 
 </p>
 
 <br>
