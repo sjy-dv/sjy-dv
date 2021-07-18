@@ -1,5 +1,5 @@
 
-<img align="center" src="https://64.media.tumblr.com/f0c328a0ffc3cec225c43387eb843957/a9f51e14a16a0b40-78/s540x810/e66f37a2ca9f0e4ef890e82e91169c3e931879a7.gifv" width="100%"/>
+<img align="center" src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FeteSTG%2Fbtq9NXAHyfg%2FSandGHsCGDS5XmGwKvPCHk%2Fimg.jpg" width="100%"/>
 
 [![YebinKim's github stats](https://github-readme-stats.vercel.app/api?username=sjy-dv&count_private=true&custom_title=Dev_Tozzi's&nbsp;github&nbsp;👀&bg_color=30,92a8d1,f7cac9&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sjy-dv&layout=compact&custom_title=My&nbsp;Language&nbsp;⌨️&bg_color=30,f7cac9,92a8d1&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
