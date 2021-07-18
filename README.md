@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/MongoDB-6DB33F?style=flat-square&logo=MongoDB&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Cassandra-E6B91E?style=flat-square&logo=ApacheCassandra&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Linux-00599C?style=flat-square&logo=LinuxlogoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Linux-00599C?style=flat-square&logo=inuxlogoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
   
   <br>
