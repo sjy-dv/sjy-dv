@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Dev_Tozzi&fontSize=70&animation=twinkling)
-<p align="center">🇰🇷 🇦🇺 🇸🇬</p>
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Dev_Tozzi&fontAlignY=40&fontSize=100&desc=서재용입니다&descAlignY=65&animation=twinkling)
 
 [![YebinKim's github stats](https://github-readme-stats.vercel.app/api?username=sjy-dv&count_private=true&custom_title=Dev_Tozzi's&nbsp;github&nbsp;👀&bg_color=30,92a8d1,f7cac9&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sjy-dv&layout=compact&custom_title=My&nbsp;Language&nbsp;⌨️&bg_color=30,f7cac9,92a8d1&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
