@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=SeoJaeYoung&fontSize=70&animation=twinkling)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sjy_dv&show_icons=true&theme=radical)
 
 <p align="center">🇰🇷 🇦🇺 🇸🇬</p>
 
