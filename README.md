@@ -2,7 +2,7 @@
 <img align="center" src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FeteSTG%2Fbtq9NXAHyfg%2FSandGHsCGDS5XmGwKvPCHk%2Fimg.jpg" width="100%"/>
 
 [![YebinKim's github stats](https://github-readme-stats.vercel.app/api?username=sjy-dv&count_private=true&custom_title=Dev_Tozzi's&nbsp;github&nbsp;👀&bg_color=30,f4eb9c,571c0c&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sjy-dv&layout=compact&custom_title=My&nbsp;Language&nbsp;⌨️&bg_color=30,f4eb9c,571c0c&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langauges](https://github-readme-stats.vercel.app/api/top-langs/?username=sjy-dv&layout=compact&custom_title=My&nbsp;Language&nbsp;⌨️&bg_color=30,f4eb9c,571c0c&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="center">⚙ Tech Stack ⚙</h3>
 
