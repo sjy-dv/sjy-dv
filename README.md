@@ -33,7 +33,8 @@
   <img src="https://img.shields.io/badge/HyperledgerFabric-DB3552?style=flat-square&logo=Hulu&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/BlockChain-11B48A?style=flat-square&logo=Bitcoin&logoColor=white"/></a>&nbsp 
-  <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/></a>&nbsp 
+  <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/></a>&nbsp
+  <a href="#"><img src="https://img.shields.io/badge/Kubernetes-2496ED?style=flat&logo=Kubernetes&logoColor=white"/></a>&nbsp 
   <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/></a>&nbsp 
 </p>
 
