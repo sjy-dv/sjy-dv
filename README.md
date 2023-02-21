@@ -9,14 +9,13 @@
 </div>
 
 
-<div align="center">
-  
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const ashraf = {
+const sjy-dv = {
     pronouns: "He" | "Him",
     askMeAbout: ["server dev", "cloud dev", "embedded dev"],
     technologies:{
@@ -29,7 +28,8 @@ const ashraf = {
     architecture: ["monolitic", "microservices", "event-driven", "scheduler"],
 }
 ```
-
+<div align="center">
+  
 <br>
 <h3 align="center">🔩 Me 🔩</h3>
 <p align="center">
