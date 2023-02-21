@@ -19,7 +19,7 @@ const sjy-dv = {
     pronouns: "He" | "Him",
     askMeAbout: ["server dev", "cloud dev", "embedded dev"],
     technologies:{
-        backEnd: ["Nodejs","Python", "C++", "Go", "Java", "Kotlin","Rust"],
+        backEnd: ["Nodejs","Python", "C++", "Go", "Java", "Kotlin","Rust","Lua","Shell"],
         database: ["mongo","mySql", "Cassandra", "BigChain", "Redis","InfluxDB"],
         serverless: ["Knative"],
         devOps: ["Docker", "Kubernetes","TeamCity","ArgoCD"],
