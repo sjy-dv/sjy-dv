@@ -33,7 +33,6 @@ const sjy-dv = {
 <br>
 <h3 align="center">🔩 Me 🔩</h3>
 <p align="center">
-  <a href="https://blog.naver.com/ks2414e"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/ks2414e"/></a>&nbsp
     <a href="mailto:kn2414e@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kn2414e@gmail.com"/></a>
 </p>
 <br>
