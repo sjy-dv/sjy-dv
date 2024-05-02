@@ -1,14 +1,4 @@
-[![Medium1](https://github-readme-medium.vercel.app/?username=kn2414e&limit=4)](https://medium.com/@kn2414e)
 
-
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
-<p align='center'>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsjy-dv&count_bg=%233D71C8&title_bg=%23555555&icon=tencentqq.svg&icon_color=%23E7E7E7&title=watches&edge_flat=true)](https://hits.seeyoufarm.com)
-
-</p>
-<div size='20px'> Hi! My name is SeoJaeYoung. Thank You for taking the time to view my GitHub Profile :smile: 
-</div>
 
 <h2> About Me <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 100px height='100px'></h2>
 
@@ -37,6 +27,8 @@ Distributed system development, low-level database development
 <a href= https://github.com/https://github.com/sjy-dv?tab=repositories&q=&type=&language=rust&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/rust.svg'> </a>
 <a href= https://github.com/https://github.com/sjy-dv?tab=repositories&q=&type=&language=sass&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/go.svg'> </a>
 
+<h2>Medium Letters</h2>
+[![Medium1](https://github-readme-medium.vercel.app/?username=kn2414e&limit=4)](https://medium.com/@kn2414e)
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px> </h2>
 <a href = 'https://medium.com/@kn2414e'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a> 
