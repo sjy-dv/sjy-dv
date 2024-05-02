@@ -1,4 +1,4 @@
-[![Medium1](https://github-readme-medium.vercel.app/?username=kn2414e)](https://medium.com/@kn2414e)
+[![Medium1](https://github-readme-medium.vercel.app/?username=kn2414e&limit=4&bg=222f2e&text=ff0000)](https://medium.com/@kn2414e)
 
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
