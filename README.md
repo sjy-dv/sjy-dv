@@ -1,4 +1,4 @@
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/KX5nwoDX97AtPvKBF6" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/motion-graphics-animated-gif-animation-KX5nwoDX97AtPvKBF6">via GIPHY</a></p>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnkwdTBiMHkyeW56eHFpa3ZqczJuOTNiOG5wZTNkZ25rMWp1dWh0NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KX5nwoDX97AtPvKBF6/giphy.gif"/> 
 
 
 <h2> About Me <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 100px height='100px'></h2>
