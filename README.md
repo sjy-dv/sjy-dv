@@ -1,4 +1,4 @@
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnkwdTBiMHkyeW56eHFpa3ZqczJuOTNiOG5wZTNkZ25rMWp1dWh0NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KX5nwoDX97AtPvKBF6/giphy.gif"/> 
+<img width="100%" align="center" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnkwdTBiMHkyeW56eHFpa3ZqczJuOTNiOG5wZTNkZ25rMWp1dWh0NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KX5nwoDX97AtPvKBF6/giphy.gif"/> 
 
 
 <h2> About Me <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 100px height='100px'></h2>
